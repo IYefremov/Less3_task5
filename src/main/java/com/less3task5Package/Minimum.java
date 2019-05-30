@@ -51,15 +51,6 @@ public class Minimum {
 //        }
 //
 //        return minim;
-//        public static int min(int a, int b, int c, int d) {
-//            return min(a, min(b, min(c,d)));
-//        }
-//
-//        public static int min(int a, int b)
-//        {
-//            return a > b ? b : a;
-//        }
-
 
     }
 
